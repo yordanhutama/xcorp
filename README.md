@@ -1,4 +1,4 @@
-# Twitter Clone Side Navigation
+# Twitter Clone Side Navigation FMX (Firemonkey)
 I've created a clone of Twitter's side navigation bar with TRectangle and Animatefloat
 you can change and use this in your project
 
