@@ -9,15 +9,15 @@
     <Transaction>2023/02/17 13:14:57.000.404,=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2023/06/22 14:55:31.000.975,=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2023/07/22 09:18:38.000.966,=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/07/30 19:36:01.692,=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/07/30 20:02:42.051,D:\xcorp\Unit1.pas=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/07/30 20:02:42.051,D:\xcorp\Unit1.fmx=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2023/07/30 20:02:43.846,D:\xcorp\Project1.dproj=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2023/07/30 21:07:36.469,D:\xcorp\xcorp\main.pas=D:\xcorp\Unit1.pas</Transaction>
-    <Transaction>2023/07/30 21:07:36.469,D:\xcorp\xcorp\main.fmx=D:\xcorp\Unit1.fmx</Transaction>
-    <Transaction>2023/07/30 21:07:55.759,D:\xcorp\xcorp\xcorp.dproj=D:\xcorp\Project1.dproj</Transaction>
+    <Transaction>2023/07/30 19:36:01.000.692,=C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/30 20:02:42.000.051,C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\xcorp\Unit1.fmx</Transaction>
+    <Transaction>2023/07/30 20:02:42.000.051,C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\xcorp\Unit1.pas</Transaction>
+    <Transaction>2023/07/30 20:02:43.000.846,C:\Users\Win10\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\xcorp\Project1.dproj</Transaction>
+    <Transaction>2023/07/30 21:07:36.000.469,D:\xcorp\Unit1.pas=D:\xcorp\xcorp\main.pas</Transaction>
+    <Transaction>2023/07/30 21:07:36.000.469,D:\xcorp\Unit1.fmx=D:\xcorp\xcorp\main.fmx</Transaction>
+    <Transaction>2023/07/30 21:07:55.000.759,D:\xcorp\Project1.dproj=D:\xcorp\xcorp\xcorp.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile iOSSimulator="iPhone5" Android64="RR8N1020NYV" Android="RR8N1020NYV"/>
+		<NoProfile iOSSimulator="iPhone5" Android64="" Android=""/>
 	</ActiveMobileDevice>
 </BorlandProject>

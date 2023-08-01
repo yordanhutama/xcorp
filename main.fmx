@@ -3,9 +3,10 @@ object Form1: TForm1
   Top = 0
   Caption = '['
   ClientHeight = 681
-  ClientWidth = 640
+  ClientWidth = 191
   Position = DesktopCenter
   Transparency = True
+  WindowState = wsMaximized
   FormFactor.Width = 320
   FormFactor.Height = 480
   FormFactor.Devices = [Desktop]
